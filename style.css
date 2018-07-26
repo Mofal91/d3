@@ -1,0 +1,13 @@
+html,
+body {
+	height:
+	margin:
+}
+
+.bar {
+	fill: purple;
+}
+
+.bar: hover{
+	fill: red;
+}
